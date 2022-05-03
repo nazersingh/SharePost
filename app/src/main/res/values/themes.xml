@@ -1,0 +1,85 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.SocialPost" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/light_theme</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:colorControlHighlight">@color/light_theme_ripple</item>
+    </style>
+    <style name="TextView_10sp" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">@font/sky</item>
+        <item name="android:textSize">@dimen/_10sdp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:lineSpacingExtra">@dimen/_3sdp</item>
+        <item name="android:textColor">@color/text_color_black</item>
+    </style>
+    <style name="TextView_12sp" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">@font/sky</item>
+        <item name="android:textSize">@dimen/_13sdp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:lineSpacingExtra">@dimen/_7sdp</item>
+        <item name="android:textColor">@color/text_color_black</item>
+    </style>
+    <style name="TextView_13sp" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">@font/sky</item>
+        <item name="android:textSize">@dimen/_13sdp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:lineSpacingExtra">@dimen/_7sdp</item>
+        <item name="android:textColor">@color/text_color_black</item>
+    </style>
+    <style name="TextView_14sp" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">@font/sky</item>
+        <item name="android:textSize">@dimen/_14sdp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:lineSpacingExtra">@dimen/_15sdp</item>
+        <item name="android:textColor">@color/text_color_black</item>
+    </style>
+    <style name="TextView_category_heading" parent="@android:style/TextAppearance">
+        <item name="android:fontFamily">@font/sky</item>
+        <item name="android:textSize">@dimen/_12sdp</item>
+        <item name="android:background">@drawable/heading_text_light</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:lineSpacingExtra">@dimen/_10sdp</item>
+        <item name="android:textColor">@color/text_color_white</item>
+    </style>
+    <style name="cardStyle" >
+        <item name="android:background">@drawable/ripple_day</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/text_color_white</item>
+    </style>
+
+    <style name="media_content" >
+        <item name="android:background">@drawable/ripple_day</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/_210sdp</item>
+        <item name="android:textColor">@color/text_color_white</item>
+    </style>
+
+    <style name="morel_story" >
+        <item name="android:background">@drawable/rectangle_theme_light</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="morel_story_text" >
+        <item name="android:textSize">@dimen/_13sdp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@color/light_theme</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:lineSpacingExtra">@dimen/_5sdp</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+</resources>

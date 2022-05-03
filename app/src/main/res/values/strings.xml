@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Social Post</string>
+
+
+
+
+
+    <array name="list">
+        <item>Sad</item>
+        <item>Motivational</item>
+        <item>Love</item>
+        <item>Truth</item>
+        <item>Emotional</item>
+        <item>Afraid</item>
+        <item>Night</item>
+    </array>
+
+    <string name="font_family_light">sans-serif-light</string>
+</resources>

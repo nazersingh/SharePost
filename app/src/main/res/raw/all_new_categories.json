@@ -1,0 +1,247 @@
+{
+  "categoryList": [
+    {
+      "categoryId": "1",
+      "categoryText": "Motivation",
+      "categorySubList": [
+        {
+          "category_list_id": "motivational_quotes_en",
+          "categoryText": "Motivational English"
+        },
+        {
+          "category_list_id": "motivational_quotes_pbi",
+          "categoryText": "Motivational Punjabi"
+        },
+        {
+          "category_list_id": "motivational_attitude_hindi",
+          "categoryText": "Attitude Hindi"
+        },
+        {
+          "category_list_id": "motivational_attitude_pbi",
+          "categoryText": "Attitude Punjabi"
+        },
+        {
+          "category_list_id": "motivational_new_pbi",
+          "categoryText": "New Punjabi"
+        }
+      ]
+    },
+    {
+      "categoryId": "1",
+      "categoryText": "Short Stories",
+      "author": "Anonymous",
+      "categorySubList": [
+        {
+          "category_list_id": "stories_english_en",
+          "categoryText": "English"
+        },
+        {
+          "category_list_id": "stories_hindi_hindi",
+          "categoryText": "Hindi Stories"
+        },
+        {
+          "category_list_id": "stories_punjabi_pbi",
+          "categoryText": "Punjabi Stories"
+        },
+        {
+          "category_list_id": "stories_celebrities_en",
+          "categoryText": "Celebrities Stories (English)"
+        },
+        {
+          "category_list_id": "stories_celebrities_hindi",
+          "categoryText": "Celebrities Stories (hindi)"
+        }
+      ]
+    },
+    {
+      "categoryId": "1",
+      "categoryText": "Poetry",
+      "author": "Anonymous",
+      "categorySubList": [
+        {
+          "category_list_id": "poetry_sad_hindi",
+          "categoryText": "Sad Hindi"
+        },
+        {
+          "category_list_id": "poetry_kash_hindi",
+          "categoryText": "Kash Hindi"
+        },
+        {
+          "category_list_id": "poetry_funny_hindi",
+          "categoryText": "Funny Hindi"
+        },
+        {
+          "category_list_id": "poetry_life_hindi",
+          "categoryText": "Life Hindi"
+        },
+        {
+          "category_list_id": "poetry_friendship_hindi",
+          "categoryText": "Friendship Hindi"
+        },
+        {
+          "category_list_id": "poetry_new_hindi",
+          "categoryText": "New Hindi"
+        }
+      ]
+    },
+    {
+      "categoryId": "1",
+      "categoryText": "Motivational Videos",
+      "author": "Anonymous",
+      "categorySubList": [
+        {
+          "category_list_id": "videos_motivational_motivational_hindi",
+          "categoryText": "Motivational hindi"
+        }
+      ]
+    },
+    {
+      "categoryId": "1",
+      "categoryText": "Fact Videos",
+      "author": "Anonymous",
+      "categorySubList": [
+        {
+          "category_list_id": "videos_facts_facts_hindi",
+          "categoryText": "Facts in hindi"
+        }
+      ]
+    },
+    {
+      "categoryId": "1",
+      "categoryText": "Science Videos",
+      "author": "Anonymous",
+      "categorySubList": [
+        {
+          "category_list_id": "videos_science_science_hindi",
+          "categoryText": "Science in hindi"
+        }
+      ]
+    },
+    {
+      "categoryId": "1",
+      "categoryText": "Tech Videos",
+      "author": "Anonymous",
+      "categorySubList": [
+        {
+          "category_list_id": "videos_tech_tech_hindi",
+          "categoryText": "Tech in hindi"
+        }
+      ]
+    },
+    {
+      "categoryId": "1",
+      "categoryText": "History Videos",
+      "author": "Anonymous",
+      "categorySubList": [
+        {
+          "category_list_id": "videos_history_history_hindi",
+          "categoryText": "History in hindi"
+        }
+      ]
+    },
+    {
+      "categoryId": "1",
+      "categoryText": "Aware Videos",
+      "author": "Anonymous",
+      "categorySubList": [
+        {
+          "category_list_id": "videos_aware_aware_hindi",
+          "categoryText": "must know in hindi"
+        }
+      ]
+    },
+    {
+      "categoryId": "1",
+      "categoryText": "Culture Videos",
+      "author": "Anonymous",
+      "categorySubList": [
+        {
+          "category_list_id": "videos_culture_culture_pbi",
+          "categoryText": "Punjabi Culture (Punjabi)"
+        }
+      ]
+    },
+    {
+      "categoryId": "1",
+      "categoryText": "Learning Videos",
+      "author": "Anonymous",
+      "categorySubList": [
+        {
+          "category_list_id": "videos_learning_italian_pbi",
+          "categoryText": "Italian in Punjabi"
+        },
+        {
+          "category_list_id": "videos_learning_italianLicence_pbi",
+          "categoryText": "Italian Licence in Punjabi"
+        },{
+          "category_list_id": "videos_learning_italian_en",
+          "categoryText": "Italian in English"
+        },
+        {
+          "category_list_id": "videos_learning_guitar_hindi",
+          "categoryText": "Guitar in Hindi"
+        },
+        {
+          "category_list_id": "videos_learning_guitar_en",
+          "categoryText": "Guitar in English"
+        }
+      ]
+    }, {
+      "categoryId": "1",
+      "categoryText": "Kids Videos",
+      "author": "Anonymous",
+      "categorySubList": [
+        {
+          "category_list_id": "videos_kids_cartoon_it",
+          "categoryText": "italian cartoons"
+        }
+      ]
+    },{
+      "categoryId": "1",
+      "categoryText": "News",
+      "author": "Anonymous",
+      "categorySubList": [
+        {
+          "category_list_id": "videos_news_italian_it",
+          "categoryText": "Live italian news"
+        }, {
+          "category_list_id": "videos_news_hindi_en",
+          "categoryText": "Live Hindi news (english)"
+        }, {
+          "category_list_id": "videos_news_english_en",
+          "categoryText": "Live English news (english)"
+        },{
+          "category_list_id": "videos_news_hindi_hindi",
+          "categoryText": "Live Hindi news (hindi)"
+        },{
+          "category_list_id": "videos_news_punjabi_pbi",
+          "categoryText": "Live Punjabi news"
+        }
+      ]
+    },{
+      "categoryId": "1",
+      "categoryText": "Live places",
+      "author": "Anonymous",
+      "categorySubList": [
+        {
+          "category_list_id": "videos_places_italy_it",
+          "categoryText": "Live italian places"
+        }
+      ]
+    },
+    {
+      "categoryId": "1",
+      "categoryText": "Music Lovers",
+      "author": "Anonymous",
+      "categorySubList": [
+        {
+          "category_list_id": "videos_music_romantic_hindi",
+          "categoryText": "Hindi Music"
+        }, {
+          "category_list_id": "videos_music_romantic_it",
+          "categoryText": "Italian Music"
+        }
+      ]
+    }
+  ]
+}
