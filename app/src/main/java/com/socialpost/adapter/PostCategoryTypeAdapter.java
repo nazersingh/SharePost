@@ -96,6 +96,7 @@ public class PostCategoryTypeAdapter extends RecyclerView.Adapter {
             case Poetry:
                 AllCategories.PoetryCategory poetryCategory = AllCategories.PoetryCategory.valueOfCategoryName(categoryData.trim());
                 intent = new Intent(v.getContext(), MediaContentListActivity.class);
+                intent.putExtra(Constants.MAIN_JOINT_CATEGORY_ID, postCategoryPojo.getCategory_list_id());
                 intent.putExtra(Constants.CATEGORY_ID, categoryData);
                 intent.putExtra(Constants.CATEGORY_Lang, categoryLanguage);
                 v.getContext().startActivity(intent);

@@ -19,7 +19,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.SocialPost">
-        <activity android:name=".activity.Splash">
+        <activity android:name=".activity.Splash"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -36,31 +37,41 @@
 <!--            </intent-filter>-->
 <!--        </activity>-->
         <activity android:name=".activity.MainActivity"
-            android:screenOrientation="portrait"/>
+            android:screenOrientation="portrait"
+            android:exported="true"/>
 
         <activity android:name=".activity.MotivationActivity"
-            android:screenOrientation="portrait"/>
+            android:screenOrientation="portrait"
+            android:exported="true"/>
 
         <activity android:name=".activity.VideosListActivity"
             android:screenOrientation="portrait"/>  <activity android:name=".activity.ShortVideosListActivity"
-            android:screenOrientation="portrait"/>
+            android:screenOrientation="portrait"
+        android:exported="true"/>
         <activity android:name=".activity.PlayVideoActivityLandscape"
-            android:screenOrientation="landscape"/>
+            android:screenOrientation="landscape"
+            android:exported="true"/>
         <activity android:name=".activity.PlayShortVideoActivity"
-            android:screenOrientation="portrait"/>
+            android:screenOrientation="portrait"
+            android:exported="true"/>
 
         <activity android:name=".activity.MediaContentListActivity"
-            android:screenOrientation="portrait"/>
+            android:screenOrientation="portrait"
+            android:exported="true"/>
         <activity android:name=".activity.StoriesList"
-            android:screenOrientation="portrait"/>
+            android:screenOrientation="portrait"
+            android:exported="true"/>
 
         <activity android:name=".activity.StoryDetailActivity"
-            android:screenOrientation="portrait"/>
+            android:screenOrientation="portrait"
+            android:exported="true"/>
         <activity android:name=".activity.SinglePicActivity"
-            android:screenOrientation="portrait"/>
+            android:screenOrientation="portrait"
+            android:exported="true"/>
 
         <activity android:name=".activity.PlayVideoIntent"
-            android:screenOrientation="landscape">
+            android:screenOrientation="landscape"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.SEND" />
                 <category android:name="android.intent.category.DEFAULT" />

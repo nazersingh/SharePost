@@ -151,6 +151,7 @@ public class MainDatabase implements MainDatabaseCallback {
     }
 
     public ArrayList<BaseMediaContentPojo> getPoetryData(String categoryId) {
+        Log.e(TAG, "getPoetryData: "+categoryId );
         String[] categoryNameArray = categoryId.split("_");
         String categoryMain = categoryNameArray[0];
         String categoryData = categoryNameArray[1];

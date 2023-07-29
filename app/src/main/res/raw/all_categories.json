@@ -1,20 +1,7 @@
 {
   "categoryList": [
 
-    {
-      "categoryId": "1",
-      "categoryText": "Status Short Videos",
-      "author": "Anonymous",
-      "categorySubList": [
-        {
-          "category_list_id": "videos_short_attitude_pbi",
-          "categoryText": "punjabi Attitude"
-        }, {
-          "category_list_id": "videos_short_attitude_hindi",
-          "categoryText": "Hindi Attitude"
-        }
-      ]
-    }, {
+     {
       "categoryId": "1",
       "categoryText": "Learning Videos",
       "author": "Anonymous",

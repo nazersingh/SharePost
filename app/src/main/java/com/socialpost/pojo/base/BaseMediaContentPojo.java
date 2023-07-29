@@ -8,6 +8,7 @@ import com.socialpost.manager.database.DataBaseUtility;
 
 import java.io.Serializable;
 
+@Entity
 public class BaseMediaContentPojo implements Serializable {
     public int getId() {
         return id;
